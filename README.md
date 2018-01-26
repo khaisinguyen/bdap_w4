@@ -1,2 +1,1 @@
-# bdap_w4
-building database application in PHP
+building database application in PHP - week 2
